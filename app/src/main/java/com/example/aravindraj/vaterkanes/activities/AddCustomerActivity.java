@@ -38,7 +38,7 @@ public class AddCustomerActivity extends AppCompatActivity {
     // ArrayList of new customers data
     ArrayList<NewCustomerListData> newCustomerListData = new ArrayList<>();
 
-
+//testing.......
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
