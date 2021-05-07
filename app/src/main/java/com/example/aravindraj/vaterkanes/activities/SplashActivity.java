@@ -37,4 +37,8 @@ public class SplashActivity extends AppCompatActivity {
         startActivity(intent);
 
     }
+    private void snakbar()
+    {
+
+    }
 }
